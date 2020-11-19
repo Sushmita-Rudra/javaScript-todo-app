@@ -1,5 +1,7 @@
 # javaScript-todo-app
 
+[Check out the Todo app here](https://inspiring-bose-affa09.netlify.app/)
+
 A simple Todo task list app using JavaScript , HTML5 and CSS3 where we can perform below operations. 
  1. Add a task.
  2. Remove a task from the list.
